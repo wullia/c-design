@@ -27,6 +27,6 @@ void print(Lnode );
 void AppendNode(Lnode &l);
 void DeleteNode(Lnode &l);
 void FindNode(Lnode &l);
-  
+void change(Lnode &l)
 #endif 
 
